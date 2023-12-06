@@ -1,0 +1,9 @@
+this is the first program
+to read different types of file
+we are learning real java program
+cbkasjbckjabc
+cbakjsbckjabckjasc
+cbakjcbjk
+name=java
+automation=selenium
+url=facebook.com

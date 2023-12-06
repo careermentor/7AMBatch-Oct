@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Suite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)(failed)">
+    <classes>
+      <class name="learnTestNG.TestScenario8">
+        <methods>
+          <include name="third_testcase"/>
+        </methods>
+      </class> <!-- learnTestNG.TestScenario8 -->
+      <class name="learnTestNG.TestScenario6">
+        <methods>
+          <include name="first_testcase"/>
+          <include name="fifth_testcase"/>
+        </methods>
+      </class> <!-- learnTestNG.TestScenario6 -->
+      <class name="learnTestNG.TestScenario2">
+        <methods>
+          <include name="third_testcase"/>
+        </methods>
+      </class> <!-- learnTestNG.TestScenario2 -->
+      <class name="learnTestNG.TestScenario5">
+        <methods>
+          <include name="seventh_testcase"/>
+        </methods>
+      </class> <!-- learnTestNG.TestScenario5 -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

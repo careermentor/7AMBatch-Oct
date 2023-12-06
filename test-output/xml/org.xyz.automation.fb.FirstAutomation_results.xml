@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.647">
+  <properties />
+  
+  
+            <testcase name="loginFunc" time="0.601" classname="org.xyz.automation.fb.FirstAutomation" />
+                <testcase name="signupFunc" time="1.046" classname="org.xyz.automation.fb.FirstAutomation" />
+      
+</testsuite>
